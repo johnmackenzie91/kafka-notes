@@ -1,0 +1,11 @@
+{
+    "schema": "{
+                   \"type\": \"record\",
+                   \"name\": \"artist\",
+                   \"namespace\": \"org.vra.artist\",
+                   \"fields\" : [
+                       {\"name\": \"uuid\", \"type\": \"string\"},
+                       {\"name\": \"name\", \"type\": \"string\"}
+                   ]
+               }"
+}
